@@ -56,7 +56,7 @@ if button:
         
 st.write("Keep believing yourself. You are capable of amazing things! 🌟✨")
 st.markdown("""
-Created with ❤️ by [Warisha Naz]
+Created with ❤️ by [Warisha Naz]""")
 
 
    
