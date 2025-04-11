@@ -56,8 +56,7 @@ if button:
         
 st.write("Keep believing yourself. You are capable of amazing things! 🌟✨")
 st.markdown("""
-Created with ❤️ by [Wajiha Naz]
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/dashboard)
-""", unsafe_allow_html=True)
+Created with ❤️ by [Warisha Naz]
+
 
    
